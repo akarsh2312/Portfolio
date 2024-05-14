@@ -1,0 +1,18 @@
+[
+    {
+    "role": "SDE Intern",
+    "organisation": "Outshade Digital Media",
+    "startDate": "September, 2022",
+    "endDate": "Feb, 2023",
+    "experiences": ["Integrated backend and frontend components, enhancing system functionality", "Implemented efficient state management using Redux for frontend and effectively utilized databases","Boosted website speed by 25 percent through optimized coding of state variables."],
+    "imageSrc": "history/outshade.jpg"
+  },
+  {
+    "role": "Full Stack developer",
+    "organisation": "Bharat Intern",
+    "startDate": "April, 2022",
+    "endDate": "May, 2022",
+    "experiences": ["Worked on React js, Redux JS and Redux Toolkit", "Developed the complete authentication system by making middleware using JSON web token and bcrypt."],
+    "imageSrc": "history/bharatIntern.png"
+  }
+]

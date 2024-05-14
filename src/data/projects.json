@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Tubetime",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project in which I  Developed a robust backend of video streaming platform using Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, cloudinary, etc.",
+    "skills": ["React", "Express", "Mongoose","Cloudinary"],
+    "source": "https://github.com/akarsh2312/TubeTime"
+  },
+  {
+    "title": "MERN Stack Real Estate app",
+    "imageSrc": "projects/project.png",
+    "description": "Developed fullstack real estate web application with realtime chat using the MERN stack incorporating modern technologies like Prisma JWT and ContextAPI",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "source": "https://github.com/akarsh2312/realEstate"
+  },
+  {
+    "title": "Production Grade Blogging App",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a robust blogging application using Reactjs Redux and React  Hook Forms integrated with Appwrite backend services ensuring a seamless user experience and secure data management",
+    "skills": ["ReactJS", "AppWrite"],
+    "demo": "https://blog-website-using-appwrite.vercel.app",
+    "source": "https://github.com/akarsh2312/Blog-website-using-Appwrite"
+  }
+]
