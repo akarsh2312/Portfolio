@@ -19,6 +19,7 @@ export const Hero = () => {
         src={getImageUrl("hero/Akarsh.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
+        style={{width:"25%",height:"30%"}}
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
