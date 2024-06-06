@@ -7,18 +7,19 @@
     "source": "https://github.com/akarsh2312/TubeTime"
   },
   {
-    "title": "MERN Stack Real Estate app",
-    "imageSrc": "projects/project.png",
-    "description": "Developed fullstack real estate web application with realtime chat using the MERN stack incorporating modern technologies like Prisma JWT and ContextAPI",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "source": "https://github.com/akarsh2312/realEstate"
-  },
-  {
     "title": "Production Grade Blogging App",
     "imageSrc": "projects/project.png",
     "description": "Developed a robust blogging application using Reactjs Redux and React  Hook Forms integrated with Appwrite backend services ensuring a seamless user experience and secure data management",
     "skills": ["ReactJS", "AppWrite"],
-    "demo": "https://blog-website-using-appwrite.vercel.app",
+    "demo": "https://appwrite-vite-blog-app.vercel.app",
     "source": "https://github.com/akarsh2312/Blog-website-using-Appwrite"
+  },
+  {
+    "title": "Notion Application Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a Notion clone in which efficient file management with upload, delete, and replace functionalities are enabled.",
+    "skills": ["NextJS", "ReactJS","Typescript"],
+    "demo": "https://notion-clone-incruder1.vercel.app/",
+    "source": "https://notion-clone-incruder1.vercel.app/"
   }
 ]
